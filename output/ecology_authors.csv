@@ -1,50 +1,77 @@
-"authorID","AU","AF","groupID","match_name","similarity","address","RI","OI","EM"
-90,"Marshall, D","Marshall, Dustin",90,NA,NA,"Monash Univ, Sch Biol Sci, Ctr Geometr Biol, Melbourne, Vic 3800, Australia.",NA,NA,NA
-1153,"Marshall, DJ","Marshall, Dustin J.",90,"Marshall, Dustin",0.961666666666667,"Monash Univ, Sch Biol Sci, Clayton, Vic 3800, Australia.",NA,NA,NA
-121,"Kimbro, D","Kimbro, David",121,NA,NA,"Northeastern Univ, Dept Marine & Environm Sci, Ctr Marine Sci, Nahant, MA 01908 USA.",NA,NA,NA
-889,"Kimbro, DL","Kimbro, David L.",121,"Kimbro, David",0.952564102564103,"Northeastern Univ, Ctr Marine Sci, Nahant, MA 01908 USA.",NA,NA,NA
-144,"Langley, JA","Langley, J. Adam",144,NA,NA,"Smithsonian Environm Res Ctr, 647 Contees Wharf Rd, Edgewater, MD 21037 USA.",NA,NA,NA
-291,"Langley, JA","Langley, J. A.",144,"Langley, J. Adam",0.95,"Villanova Univ, Villanova, PA 19085 USA.",NA,NA,NA
-195,"Laurila, A","Laurila, A.",195,NA,NA,"Uppsala Univ, Anim Ecol Dept Ecol & Genet, Norbyvagen 18D, S-75236 Uppsala, Sweden.",NA,NA,NA
-591,"Laurila, A","Laurila, Anssi",195,"Laurila, A.",0.942857142857143,"Uppsala Univ, Anim Ecol, Dept Ecol & Genet, Evolutionary Biol Ctr, S-75236 Uppsala, Sweden.",NA,NA,NA
-196,"Orizaola, G","Orizaola, G.",196,NA,NA,"Uppsala Univ, Anim Ecol Dept Ecol & Genet, Norbyvagen 18D, S-75236 Uppsala, Sweden.","A-5217-2008","0000-0002-6748-966X",NA
-592,"Orizaola, G","Orizaola, German",196,"Orizaola, G.",0.9375,"Uppsala Univ, Anim Ecol, Dept Ecol & Genet, Evolutionary Biol Ctr, S-75236 Uppsala, Sweden.",NA,"0000-0002-6748-966X ",NA
-243,"Zhang, ZB","Zhang, Zhibin",243,NA,NA,"Chinese Acad Sci, Inst Zool, State Key Lab Integrated Management Pest Insects, Beijing 100101, Peoples R China.",NA,NA,NA
-683,"Zhang, ZH","Zhang, Z. H.",243,"Zhang, Zhibin",0.863736263736264,"Chinese Acad Sci, Northwest Inst Plateau Biol, Key Lab Adaptat & Evolut Plateau Biota, Xining 810008, Peoples R China.",NA,NA,NA
-265,"Schmid, B","Schmid, B.",265,NA,NA,"Senckenberg Biodivers & Climate Res Ctr BiK F, Senckenberganlage 25, D-60325 Frankfurt, Germany.",NA,"0000-0002-7736-7527 ",NA
-573,"Schmid, B","Schmid, Bernhard",265,"Schmid, B.",0.9125,"Univ Zurich, Inst Evolutionary Biol & Environm Studies, CH-8057 Zurich, Switzerland.",NA,NA,NA
-1074,"Schmid, B","Schmid, Bernhard",265,"Schmid, B.",0.9125,"Univ Zurich, Inst Evolutionary Biol & Environm Studies, Winterthurerstr 190, CH-8057 Zurich, Switzerland.",NA,NA,NA
-344,"Cross, PC","Cross, Paul C.",344,NA,NA,"US Geol Survey, Northern Rocky Mt Sci Ctr, 2327 Univ Way,Suite 2, Bozeman, MT 59715 USA.",NA,NA,NA
-642,"Cross, PC","Cross, P. C.",344,"Cross, Paul C.",0.94,"US Geol Survey, Northern Rocky Mt Sci Ctr, 2327 Univ Way,Suite 2, Bozeman, MT 59715 USA.",NA,"0000-0001-8045-5213 ","pcross@usgs.gov"
-345,"Hudson, PJ","Hudson, Peter J.",345,NA,NA,"Penn State Univ, Ctr Infect Dis Dynam, 208 Mueller Lab, University Pk, PA 16802 USA.",NA,NA,NA
-644,"Hudson, PJ","Hudson, P. J.",345,"Hudson, Peter J.",0.933333333333333,"Penn State Univ, Dept Biol, Ctr Infect Dis Dynam, Huck Inst Life Sci, University Pk, PA 16802 USA.",NA,NA,NA
-522,"Wang, SL","Wang, Si-Long",522,NA,NA,"Chinese Acad Sci, Inst Appl Ecol, State Key Lab Forest & Soil Ecol, Shenyang 110016, Peoples R China.",NA,NA,NA
-680,"Wang, SP","Wang, S. P.",522,"Wang, Si-Long",0.891666666666667,"Chinese Acad Sci, Inst Tibetan Plateau Res, Key Lab Alpine Ecol & Biodivers, Beijing 100101, Peoples R China.",NA,NA,NA
-533,"Wang, QB","Wang, Qibing",533,NA,NA,"Chinese Acad Sci, Inst Bot, State Key Lab Vegetat & Environm Change, Beijing 100093, Peoples R China.",NA,NA,NA
-679,"Wang, Q","Wang, Q.",533,"Wang, Qibing",0.916666666666667,"Chinese Acad Sci, Inst Tibetan Plateau Res, Key Lab Alpine Ecol & Biodivers, Beijing 100101, Peoples R China.",NA,NA,NA
-549,"Hooper, D","Hooper, David",549,NA,NA,"Univ Montana, Dept Anthropol, Missoula, MT 59812 USA.",NA,NA,NA
-659,"Hooper, DU","Hooper, David U.",549,"Hooper, David",0.952564102564103,"Western Washington Univ, Dept Biol, Bellingham, WA 98225 USA.",NA,NA,NA
-615,"Abrams, PA","Abrams, P. A.",615,NA,NA,NA,NA,NA,NA
-948,"Abrams, PA","Abrams, Peter A.",615,"Abrams, P. A.",0.933333333333333,"Univ Toronto, Dept Ecol & Evolutionary Biol, 25 Harbord St, Toronto, ON M5S 3G5, Canada.",NA,NA,NA
-616,"Cortez, MH","Cortez, M. H.",616,NA,NA,NA,NA,NA,NA
-949,"Cortez, MH","Cortez, Michael H.",616,"Cortez, M. H.",0.914285714285714,"Utah State Univ, Dept Math & Stat, Logan, UT 84322 USA.",NA,NA,NA
-632,"Matthiopoulos, J","Matthiopoulos, J.",632,NA,NA,"Univ Glasgow, Inst Biodivers Anim Hlth & Comparat Med, Glasgow G12 8QQ, Lanark, Scotland.",NA,NA,NA
-941,"Matthiopoulos, J","Matthiopoulos, Jason",632,"Matthiopoulos, J.",0.96,"Univ Glasgow, Coll Med Vet & Life Sci, Inst Biodivers Anim Hlth & Comparat Med, Graham Kerr Bldg, Glasgow G12 8QQ, Lanark, Scotland.",NA,NA,NA
-796,"Fagan, WF","Fagan, William F.",796,NA,NA,"Univ Maryland, Dept Biol, College Pk, MD 20742 USA.",NA,NA,NA
-1155,"Fagan, WF","Fagan, W. F.",796,"Fagan, William F.",0.863736263736264,"Univ Maryland, Dept Biol, College Pk, MD 20742 USA.",NA,NA,NA
-804,"Zhang, Y","Zhang, Ying",804,NA,NA,"Acadia Univ, Dept Math & Stat, Wolfville, NS B4P 2R6, Canada.",NA,NA,NA
-1363,"Zhang, Y","Zhang, Y.",804,"Zhang, Ying",0.945454545454545,"Chinese Acad Sci, Xishuangbanna Trop Bot Garden, Key Lab Trop Forest Ecol, Mengla 666303, Yunnan, Peoples R China.",NA,NA,NA
-921,"Davies, AB","Davies, A. B.",921,NA,NA,"Univ Pretoria, Dept Zool & Entomol, ZA-0002 Pretoria, South Africa.",NA,"0000-0002-0003-1435 ",NA
-927,"Davies, AB","Davies, Andrew B.",921,"Davies, A. B.",0.923076923076923,"Univ Pretoria, Dept Zool & Entomol, Ctr Invas Biol, ZA-0002 Pretoria, South Africa.",NA,"0000-0002-0003-1435","abdavies@zoology.up.ac.za"
-925,"Parr, CL","Parr, C. L.",925,NA,NA,"Univ Liverpool, Sch Environm Sci, Liverpool L69 3GP, Merseyside, England.",NA,NA,NA
-929,"Parr, CL","Parr, Catherine L.",925,"Parr, C. L.",0.838095238095238,"Univ Liverpool, Sch Environm Sci, Liverpool L69 3GP, Merseyside, England.",NA,NA,NA
-967,"Lin, LX","Lin, Luxiang",967,NA,NA,"Chinese Acad Sci, Xishuangbanna Trop Bot Garden, Key Lab Trop Forest Ecol, Kunming 650223, Peoples R China.",NA,NA,"linluxa@xtbg.ac.cn"
-1359,"Lin, L","Lin, L.",967,"Lin, Luxiang",0.8,"Chinese Acad Sci, Xishuangbanna Trop Bot Garden, Key Lab Trop Forest Ecol, Mengla 666303, Yunnan, Peoples R China.",NA,NA,NA
-971,"Yang, J","Yang, Jie",971,NA,NA,"Chinese Acad Sci, Xishuangbanna Trop Bot Garden, Key Lab Trop Forest Ecol, Kunming 650223, Peoples R China.",NA,NA,NA
-1362,"Yang, J","Yang, J.",971,"Yang, Jie",0.955555555555555,"Chinese Acad Sci, Xishuangbanna Trop Bot Garden, Key Lab Trop Forest Ecol, Mengla 666303, Yunnan, Peoples R China.",NA,NA,NA
-1112,"Hasselquist, NJ","Hasselquist, Niles J.",1112,NA,NA,"Swedish Univ Agr Sci, Dept Forest Ecol & Management, SE-90183 Umea, Sweden.",NA,NA,NA
-1197,"Hasselquist, NJ","Hasselquist, N. J.",1112,"Hasselquist, Niles J.",0.952941176470588,"Swedish Univ Agr Sci, Dept Forest Ecol & Management, SE-90183 Umea, Sweden.",NA,NA,NA
-1113,"Hogberg, P","Hogberg, Peter",1113,NA,NA,"Swedish Univ Agr Sci, Dept Forest Ecol & Management, SE-90183 Umea, Sweden.",NA,NA,NA
-1198,"Hogberg, P","Hogberg, P.",1113,"Hogberg, Peter",0.942857142857143,"Swedish Univ Agr Sci, Dept Forest Ecol & Management, SE-90183 Umea, Sweden.",NA,NA,NA
-1115,"Metcalfe, DB","Metcalfe, Daniel B.",1115,NA,NA,"Swedish Univ Agr Sci, Dept Forest Ecol & Management, SE-90183 Umea, Sweden.",NA,NA,NA
-1201,"Metcalfe, DB","Metcalfe, D. B.",1115,"Metcalfe, Daniel B.",0.933333333333333,"Swedish Univ Agr Sci, Dept Forest Ecol & Management, SE-90183 Umea, Sweden.",NA,NA,NA
+"authorID","AU","AF","groupID","match_name","similarity","author_order","university","department","postal_code","country","address","RP_address","RI","OI","EM","UT","refID","PT","PY","PU"
+179,"Salazar, D","Salazar, Diego",296,"Salazar, Diego",1,2,"Univ Missouri","One Univ Blvd","63121","USA","Univ Missouri, Dept Biol, One Univ Blvd, St Louis, MO 63121 USA.",NA,NA,NA,NA,"WOS:000387228200006
+",41,"J
+","2016","WILEY
+"
+296,"Salazar, D","Salazar, Diego",296,"Salazar, Diego",1,1,"Univ Calif Berkeley","1005 Valley Life Sci Bldg 3140","94720","USA","Univ Calif Berkeley, Dept Integrat Biol, 1005 Valley Life Sci Bldg 3140, Berkeley, CA 94720 USA.","Univ Missouri, Dept Biol, 8001 Nat Bridge Rd, St Louis, MO 63121 USA.",NA,NA,NA,"WOS:000387228200027
+",62,"J
+","2016","WILEY
+"
+549,"Hooper, D","Hooper, David",659,"Hooper, David U.",0.952564102564103,4,"Univ Montana","Dept Anthropol","59812","USA","Univ Montana, Dept Anthropol, Missoula, MT 59812 USA.",NA,NA,NA,NA,"WOS:000382527100019
+",119,"J
+","2016","WILEY
+"
+659,"Hooper, DU","Hooper, David U.",659,"Hooper, David",0.952564102564103,7,"Western Washington Univ","Dept Biol","98225","USA","Western Washington Univ, Dept Biol, Bellingham, WA 98225 USA.",NA,NA,NA,NA,"WOS:000380749600007
+",142,"J
+","2016","WILEY-BLACKWELL
+"
+370,"Arsovski, D","Arsovski, Dragan",1099,"Arsovski, Dragan",1,3,"Univ Montpellier","PSL Res Univ","F-34293","France","Univ Montpellier, PSL Res Univ, Univ Paul Valery Montpellier, CEFE UMR 5175,CNRS,EPHE,Lab Biogeog & Ecol Verteb, 1919 Route Mende, F-34293 Montpellier, France.",NA,NA,NA,NA,"WOS:000386088000013
+",80,"J
+","2016","WILEY
+"
+1099,"Arsovski, D","Arsovski, Dragan",1099,"Arsovski, Dragan",1,2,"PSL Res Univ","UM","F-34293","France","PSL Res Univ, UM, SupAgro, EPHE,CNRS,INRA,IRD,UMR CEFE 5175, F-34293 Montpellier, France.",NA,NA,NA,NA,"WOS:000373923100017
+",249,"J
+","2016","WILEY
+"
+372,"Besnard, A","Besnard, Aurelien",1100,"Besnard, Aurelien",1,10,"Univ Montpellier","PSL Res Univ","F-34293","France","Univ Montpellier, PSL Res Univ, Univ Paul Valery Montpellier, CEFE UMR 5175,CNRS,EPHE,Lab Biogeog & Ecol Verteb, 1919 Route Mende, F-34293 Montpellier, France.",NA,NA,NA,NA,"WOS:000386088000013
+",80,"J
+","2016","WILEY
+"
+1100,"Besnard, A","Besnard, Aurelien",1100,"Besnard, Aurelien",1,10,"PSL Res Univ","UM","F-34293","France","PSL Res Univ, UM, SupAgro, EPHE,CNRS,INRA,IRD,UMR CEFE 5175, F-34293 Montpellier, France.",NA,NA,NA,NA,"WOS:000373923100017
+",249,"J
+","2016","WILEY
+"
+1493,"Besnard, A","Besnard, Aurelien",1100,"Besnard, Aurelien",1,4,"Univ Montpellier 3","CNRS","F-34293","France","Univ Montpellier 3, CNRS, CEFE UMR 5175, EPHE,Lab Biogeog & Ecol Vertebres, 1919 Route Mende, F-34293 Montpellier 5, France.","Univ Montpellier 3, CNRS, CEFE UMR 5175, EPHE,Lab Biogeog & Ecol Vertebres, 1919 Route Mende, F-34293 Montpellier 5, France.",NA,NA,NA,"WOS:000369852600022
+",332,"J
+","2016","WILEY-BLACKWELL
+"
+375,"Cayuela, H","Cayuela, Hugo",1104,"Cayuela, Hugo",1,1,"Lab Ecol Hydrosyst Nat & Anthropises","UMR LEHNA 5023","F-69100","France","Lab Ecol Hydrosyst Nat & Anthropises, UMR LEHNA 5023, F-69100 Villeurbanne, France.","Univ Montpellier, PSL Res Univ, Univ Paul Valery Montpellier, CEFE UMR 5175,CNRS,EPHE,Lab Biogeog & Ecol Verteb, 1919 Route Mende, F-34293 Montpellier, France.",NA,NA,NA,"WOS:000386088000013
+",80,"J
+","2016","WILEY
+"
+1104,"Cayuela, H","Cayuela, Hugo",1104,"Cayuela, Hugo",1,1,"LEHNA","UMR 5023","F-69100","France","LEHNA, UMR 5023, F-69100 Villeurbanne, France.","PSL Res Univ, UM, SupAgro, EPHE,CNRS,INRA,IRD,UMR CEFE 5175, F-34293 Montpellier, France.",NA,NA,NA,"WOS:000373923100017
+",249,"J
+","2016","WILEY
+"
+376,"Joly, P","Joly, Pierre",1105,"Joly, Pierre",1,9,"Lab Ecol Hydrosyst Nat & Anthropises","UMR LEHNA 5023","F-69100","France","Lab Ecol Hydrosyst Nat & Anthropises, UMR LEHNA 5023, F-69100 Villeurbanne, France.",NA,NA,NA,NA,"WOS:000386088000013
+",80,"J
+","2016","WILEY
+"
+1105,"Joly, P","Joly, Pierre",1105,"Joly, Pierre",1,9,"LEHNA","UMR 5023","F-69100","France","LEHNA, UMR 5023, F-69100 Villeurbanne, France.",NA,NA,NA,NA,"WOS:000373923100017
+",249,"J
+","2016","WILEY
+"
+378,"Miaud, C","Miaud, Claude",1106,"Miaud, Claude",1,7,"Univ Montpellier","PSL Res Univ","F-34293","France","Univ Montpellier, PSL Res Univ, Univ Paul Valery Montpellier, CEFE UMR 5175,CNRS,EPHE,Lab Biogeog & Ecol Verteb, 1919 Route Mende, F-34293 Montpellier, France.",NA,NA,NA,NA,"WOS:000386088000013
+",80,"J
+","2016","WILEY
+"
+1106,"Miaud, C","Miaud, Claude",1106,"Miaud, Claude",1,8,"PSL Res Univ","UM","F-34293","France","PSL Res Univ, UM, SupAgro, EPHE,CNRS,INRA,IRD,UMR CEFE 5175, F-34293 Montpellier, France.",NA,NA,NA,NA,"WOS:000373923100017
+",249,"J
+","2016","WILEY
+"
+379,"Pichenot, J","Pichenot, Julian",1107,"Pichenot, Julian",1,5,"Ctr Rech & Format Ecoethol","CERFE","F-08240","France","Ctr Rech & Format Ecoethol, CERFE, F-08240 Boult Aux Bois, France.",NA,NA,NA,NA,"WOS:000386088000013
+",80,"J
+","2016","WILEY
+"
+1107,"Pichenot, J","Pichenot, Julian",1107,"Pichenot, Julian",1,5,"CERFE","Ctr Rech & Format Ecoethol","F-08240","France","CERFE, Ctr Rech & Format Ecoethol, F-08240 Boult Aux Bois, France.",NA,NA,NA,NA,"WOS:000373923100017
+",249,"J
+","2016","WILEY
+"
+832,"Barbraud, C","Barbraud, Christophe",1476,"Barbraud, Christophe",1,2,"Univ La Rochelle","Ctr Etud Biol Chize","F-79360","France","Univ La Rochelle, Ctr Etud Biol Chize, CNRS, UMR 7372, F-79360 Villiers En Bois, France.",NA,NA,NA,NA,"WOS:000379323800020
+",182,"J
+","2016","WILEY
+"
+1476,"Barbraud, C","Barbraud, Christophe",1476,"Barbraud, Christophe",1,2,"CNRS","Ctr Etud Biol Chize","F-79360","France","CNRS, Ctr Etud Biol Chize, UMR7372, F-79360 Villiers En Bois, France.",NA,NA,NA,NA,"WOS:000369852600020
+",330,"J
+","2016","WILEY-BLACKWELL
+"

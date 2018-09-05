@@ -13,17 +13,15 @@ library(refnet)
 ```
 
 
-references<-read_references()
+`references<-references_read()`
 
-authors<-read_authors(references, sim_score=0.9)
+`authors<-authors_clean(references, sim_score=0.9)`
 
 At this stage you go through and change any incorrectly grouped authors groupID to their authorID.
 
 This function takes those changes and makes the names all the same, filters again, and makes some small changes and deletes some columns for input to your functions
 
-refine_authors is doing what merge_records and remove_duplicates did before 
-
-authors_final<-refine_authors(authors, sim_score=0.94)
+`authors_final<-authors_refine(authors, sim_score=0.94)`
 
 ```{r, message=FALSE, eval=FALSE}
 
@@ -41,21 +39,43 @@ eb_refined <- authors_refine(authors=eb_authors$authors, master=eb_authors$maste
 
 save(eb_refined, file="~/refnet_materials/output/eb_refined.Rdata")
 
-authors_georef(eb_refined)
+eb_georef <- authors_georef(ebreduced)
 
 
+
+plot_addresses_country(data=eb_georef$addresses)
+plot_addresses_points(data=eb_georef$addresses)
+plot_net_address(data=eb_georef$addresses)
+plot_net_coauthor(data=eb_georef$addresses)
+plot_net_country(data=eb_georef$addresses)
+```
+
+
+
+```{r}
 ########
 # LARR
 ########
 
 LARR_references <- references_read("~/refnet_materials/data/LARR/", 
                                    dir=TRUE, 
-                                   filename_root="~/refnet_materials/output/LARR")
+             filename_root="~/refnet_materials/output/LARR")
 
 LARR_authors <- authors_clean(LARR_references, filename_root="~/refnet_materials/output/LARR")
 
-
 LARR_refined <- authors_refine(authors=LARR_authors$authors, master=LARR_authors$master)
+
+save(LARR_refined, file="~/refnet_materials/output/LARR_refined.Rdata")
+
+LARR_georef <- authors_georef(data=LARR_refined)
+
+save(LARR_georef, file="~/refnet_materials/output/LARR_georef.Rdata")
+
+plot_addresses_country(data=LARR_georef)
+plot_addresses_points(data=LARR_georef)
+plot_net_address(data=LARR_georef)
+plot_net_coauthor(data=LARR_georef)
+plot_net_country(data=LARR_georef)
 
 ################
 # WOS 2018 TEST
@@ -67,7 +87,16 @@ WOS18_references <- references_read("~/refnet_materials/data/WOS2018/",
 
 WOS18_authors <- authors_clean(WOS18_references, filename_root="~/refnet_materials/output/WOS18")
 
-WOS18_references <- authors_refine(authors=WOS18_authors$authors, master=WOS18_authors$master)
+WOS18_refine <- authors_refine(authors=WOS18_authors$authors, master=WOS18_authors$master)
+
+WOS18_georef <- authors_georef(data=WOS18_refine)
+
+plot_addresses_country(data=WOS18_georef)
+plot_addresses_points(data=WOS18_georef)
+plot_net_address(data=WOS18_georef)
+plot_net_coauthor(data=WOS18_georef)
+plot_net_country(data=WOS18_georef)
+
 
 ################
 # WOS 2011 TEST
@@ -92,7 +121,17 @@ Ecology_refined <- authors_refine(authors=Ecology_authors$authors, master=Ecolog
 
 save(Ecology_refined, file="~/refnet_materials/output/Ecology_refined.Rdata")
 
-authors_georef(Ecology_refined)
+Ecology_georef <- authors_georef(ER)
+
+save(Ecology_georef, 
+file="~/refnet_materials/output/Ecology_georef.Rdata")
+
+plot_addresses_country(data=Ecology_georef$addresses)
+#b <- plot_addresses_points(data=Ecology_georef$addresses)
+#d <- plot_net_address(data=Ecology_georef$addresses)
+#plot_net_coauthor(data=Ecology_georef$addresses)
+#plot_net_country(data=Ecology_georef$addresses)
+
 
 ################
 # BITR TEST
